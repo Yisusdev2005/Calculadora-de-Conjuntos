@@ -1,5 +1,9 @@
 # Calculadora-de-Conjuntos
-Una calculadora simple enfocada a la teoría de conjuntos
+
+  <p align="center">
+  **Una calculadora simple de Teoría de Conjuntos**
+  </p>
+  
 ![Image text](https://github.com/Yisusdev2005/Calculadora-de-Conjuntos/blob/main/calculadora.png)
 
 # Descripción
