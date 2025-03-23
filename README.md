@@ -3,8 +3,8 @@
   <p align="center">
   **Una calculadora simple de Teoría de Conjuntos**
   </p>
-  
-![Image text](https://github.com/Yisusdev2005/Calculadora-de-Conjuntos/blob/main/calculadora.png)
+
+<img src="https://github.com/Yisusdev2005/Calculadora-de-Conjuntos/blob/main/calculadora.png" width="100%"/>
 
 # Descripción
 Este programa es una calculadora de teoría de conjuntos que implementa las operaciones básicas, con un diseño mejorado y más atractivo orientado. 
